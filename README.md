@@ -1,5 +1,9 @@
 # IMDb Top 1000: Data Cleaning, Transformation & Enrichment
 
+Author: Daniela de Sousa Silva
+
+## Description
+
 This project demonstrates a complete data wrangling pipeline using the IMDb Top 1000 Movies and TV Shows dataset. The goal was to clean, enrich, and prepare the data for potential downstream use in modeling (e.g., predicting box office revenue or audience reception).
 
 ## Project Scope
