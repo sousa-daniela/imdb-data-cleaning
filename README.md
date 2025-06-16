@@ -56,3 +56,29 @@ This project was done as part of a data science course with the intent of practi
 ## Dataset Source
 
 IMDb Top 1000 Movies and TV Shows – [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+
+---
+# 2025-06-16 Update: EDA
+
+A new notebook, `imdb_eda.ipynb`, has been added as part of a follow-up assignment for the Explorative Data Analysis and Visualisation course.
+
+## Purpose:
+
+This notebook demonstrates core EDA techniques, including analysis of location, variance, distribution shape, covariance, correlation, and grouped comparisons, using the cleaned IMDb Top 1000 Movies dataset produced in the first project.
+
+## Focus:
+
+The EDA does not revisit data cleaning or enrichment, but instead builds on the cleaned dataset to extract analytical insights and support them with clear, well-annotated visualizations.
+
+##	Key Content:
+
+-	Boxplots and KDEs for univariate analysis
+-	Correlation heatmap and scatter plots for bivariate exploration
+-	Grouped comparisons by director and genre
+-	All code is self-contained and produces reproducible visualizations
+
+This extension highlights the value of a clean dataset for effective exploration and communication of data-driven insights.
+
+## Note
+
+The original notebook, `imdb_dataset_cleaning.ipynb`, and all previously included files remain unaltered. The new EDA notebook is fully independent and builds on the existing cleaned dataset without modifying any prior code or outputs.
